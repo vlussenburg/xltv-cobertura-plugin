@@ -1,0 +1,1 @@
+# xltv-cobertura-plugin
