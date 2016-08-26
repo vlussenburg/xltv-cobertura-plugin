@@ -1,0 +1,4 @@
+.gradle
+*.pyc
+build
+.DS_Store

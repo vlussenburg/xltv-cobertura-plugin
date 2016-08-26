@@ -1,0 +1,10 @@
+<synthetic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.xebialabs.com/deployit/synthetic"
+           xsi:schemaLocation="http://www.xebialabs.com/deployit/synthetic synthetic.xsd">
+
+    <type type="xlt.Cobertura" extends="xlt.TestToolConfiguration" label="Cobertura coverage report">
+        <property name="category" default="meta"/>
+        <property name="defaultSearchPattern" default="**/coverage.xml"/>
+        <property name="scriptLocation" default="cobertura/cobertura_parser.py"/>
+    </type>
+
+</synthetic>
